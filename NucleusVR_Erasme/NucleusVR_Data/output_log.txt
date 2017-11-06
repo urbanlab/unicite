@@ -1,0 +1,213 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4058 MB
+    Driver:   21.21.13.7653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\SmartLocalization_Runtime.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\SmartLocalization_Runtime.dll into Unity Child Domain
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\System.Xml.dll (this message is harmless)
+OnLevelWasLoaded was found on WebCamBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on KeepAliveBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+OnLevelWasLoaded was found on OVRScreenFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+The referenced script on this Behaviour (Game Object 'Exporter') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 0.561085 ms
+NUCLEUS auto identification
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+VR enabled: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+VR active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+VR Device: OpenVR
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+VR active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected to lighthouse:LHR-857B109B
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NVRCameraRig (SteamVR_ControllerManager)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller (left) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Controller (right) (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Try to connect to nucleusvr.net
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\urbanlab\Desktop\workshop_urbanlabVR\Unicités_Concertation_citoyenne\NucleusVR_Erasme\NucleusVR_Data\Managed\System.Configuration.dll (this message is harmless)
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+OnCusOnCustomAuthenticationResponse. data: {AvatarLogo=http://nucleusvr.net/application/files/avatars/81.jpg, Message=Connection OK}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ConnectToHome
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+WebRpcResponse. Response: OperationResponse 219: ReturnCode: 0 (). Parameters: {(Byte)207=(Byte)0, (Byte)206=(String)joined lobby success, (Byte)209=(String)}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WebRpcResponse. Response: OperationResponse 219: ReturnCode: 0 ({"Type":"UpdateRoomList","Metaversename":"Engagement citoyen","UserList":[]}). Parameters: {(Byte)207=(Byte)0, (Byte)206=(String)Update room list success, (Byte)209=(String), (Byte)208=(Dictionary`2)System.Collections.Generic.Dictionary`2[System.String,System.Object]}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Update userlist
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.414466 ms
+LE_GUIInterface_uGUIimplNucleus: OBJECT_PREVIEW_DRAGGABLE was not set in the inspector -> drag&drop will not work!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LE_GUIInterface_uGUIimplNucleus: OBJECT_PREVIEW_IMAGE was not set in the inspector!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LE_GUIInterface_uGUIimplNucleus: OBJECT_PREVIEW_MESSAGE was not set in the inspector!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 74 unused Assets to reduce memory usage. Loaded Objects now: 14700.
+Total: 6.126632 ms (FindLiveObjects: 0.694371 ms CreateObjectMapping: 0.322076 ms MarkObjects: 5.036555 ms  DeleteObjects: 0.071740 ms)
+
+The referenced script on this Behaviour (Game Object 'MercenarySoldier') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'MercenarySoldier') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'MercenarySoldier') is missing!
+ 
+(Filename:  Line: 1754)
+
+LeftHandTarget: LeftHandTarget (UnityEngine.GameObject)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'CanvasPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'CanvasPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'CanvasPanel') is missing!
+ 
+(Filename:  Line: 1754)
+
+VoIPController.EnableVoIP: False
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GfxDevice: creating device client; threaded=1
+GfxDevice: creating device client; threaded=1
+Stop TS3 Client
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
